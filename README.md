@@ -2,7 +2,7 @@
 
 ## Description
 
-this is a simple News app made in Flutter and using the NewsAPI service.
+Aplikasi Simple menampilkan berita dengan menggunakan NewsAPI
 
 ## Preview of the App
 
@@ -25,11 +25,6 @@ this is a simple News app made in Flutter and using the NewsAPI service.
 <hr>
 
 ## Usage
-The API is free to use, all what you have to do is:
+API ini gratis untuk digunakan
 
-* go to <a href="https://newsapi.org/">NewsAPI.com</a>
-* Create a free account and get your API key
-* copy and paste the API key in the **api_service.dart** file
-* choose the endpoint that you want and paste the link in the link variable
-* you can add some features like the search, tab to choose the category of the app etc...
 
