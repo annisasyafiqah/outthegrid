@@ -14,13 +14,13 @@ Aplikasi Simple menampilkan berita dengan menggunakan NewsAPI
   </tr>
   <tr >
     <td style="text-align: center; border:1px solid;padding:1em;">
-        <img width="60%" src="assets/Discovery.png">
+        <img width="60%" src="Assets/Discovery.png">
     </td>
     <td style="text-align: center; border:1px solid;padding:1em;">
-        <img width="60%" src="assets/Login.png">
+        <img width="60%" src="Assets/Login.png">
     </td>
     <td style="text-align: center; border:1px solid;padding:1em;">
-        <img width="60%" src="assets/Drawer.png">
+        <img width="60%" src="Assets/Drawer.png">
     </td>
   </tr>
   
