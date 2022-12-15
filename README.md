@@ -1,4 +1,4 @@
-# Flutter News App using NewsAPI
+# Outthegrid : Flutter News App using NewsAPI
 
 ## Description
 
@@ -13,10 +13,7 @@ Aplikasi Simple menampilkan berita dengan menggunakan NewsAPI
   </tr>
   <tr >
     <td style="text-align: center; border:1px solid;padding:1em;">
-        <img width="60%" src="Assets/newsapp_main.png">
-    </td>
-    <td style="text-align: center; border:1px solid;padding:1em;">
-         <img width="60%" src="Assets/newsapp_details.png">
+        <img width="60%" src="assets/Logo/Logo.png">
     </td>
   </tr>
   
